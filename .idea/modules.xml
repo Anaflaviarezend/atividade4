@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/listar_de_compra.iml" filepath="$PROJECT_DIR$/listar_de_compra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/listar_de_compra_android.iml" filepath="$PROJECT_DIR$/android/listar_de_compra_android.iml" />
+    </modules>
+  </component>
+</project>
